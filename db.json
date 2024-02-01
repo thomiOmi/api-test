@@ -188,5 +188,127 @@
       "status": "failed",
       "email": "mbinghamj@blogtalkradio.com"
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Darelle Berkely",
+      "role": "Engineer",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "name": "Rance Elph",
+      "role": "Construction Foreman",
+      "status": "inactive"
+    },
+    {
+      "id": 3,
+      "name": "Redd Gallandre",
+      "role": "Construction Foreman",
+      "status": "inactive"
+    },
+    {
+      "id": 4,
+      "name": "Cornelius Levis",
+      "role": "Construction Manager",
+      "status": "inactive"
+    },
+    {
+      "id": 5,
+      "name": "Lincoln Malyon",
+      "role": "Estimator",
+      "status": "inactive"
+    },
+    {
+      "id": 6,
+      "name": "Alexa Jendrassik",
+      "role": "Subcontractor",
+      "status": "inactive"
+    },
+    {
+      "id": 7,
+      "name": "Ferdinande Tromans",
+      "role": "Subcontractor",
+      "status": "active"
+    },
+    {
+      "id": 8,
+      "name": "Sally Forth",
+      "role": "Estimator",
+      "status": "inactive"
+    },
+    {
+      "id": 9,
+      "name": "Rubie Drinnan",
+      "role": "Construction Manager",
+      "status": "inactive"
+    },
+    {
+      "id": 10,
+      "name": "Esma Souster",
+      "role": "Electrician",
+      "status": "inactive"
+    },
+    {
+      "id": 11,
+      "name": "Correy Gear",
+      "role": "Construction Worker",
+      "status": "active"
+    },
+    {
+      "id": 12,
+      "name": "Mycah Sleep",
+      "role": "Project Manager",
+      "status": "inactive"
+    },
+    {
+      "id": 13,
+      "name": "Elisha Tackley",
+      "role": "Construction Foreman",
+      "status": "active"
+    },
+    {
+      "id": 14,
+      "name": "Ursola Wennam",
+      "role": "Architect",
+      "status": "active"
+    },
+    {
+      "id": 15,
+      "name": "Jae Sanja",
+      "role": "Construction Manager",
+      "status": "inactive"
+    },
+    {
+      "id": 16,
+      "name": "Damian Currell",
+      "role": "Construction Manager",
+      "status": "inactive"
+    },
+    {
+      "id": 17,
+      "name": "Maryjane McElree",
+      "role": "Architect",
+      "status": "inactive"
+    },
+    {
+      "id": 18,
+      "name": "Viviana Miguet",
+      "role": "Construction Expeditor",
+      "status": "active"
+    },
+    {
+      "id": 19,
+      "name": "Caitlin Christol",
+      "role": "Estimator",
+      "status": "active"
+    },
+    {
+      "id": 20,
+      "name": "Foster Sutcliff",
+      "role": "Construction Manager",
+      "status": "inactive"
+    }
   ]
 }
